@@ -11,10 +11,10 @@ The test covers:
 6. Adding it to favourites and renaming to:  99 UBC B-Line – Morning Schedule
 7. Validating the favourite in **Manage my favourites.
 
-How to use the project
-1.Navigate to the folder you want to clone the repo.
-2.Type command git clone https://github.com/Vipuldcm/TransLink.git
-3.cd Translink
-4. If not installed please install maven in your system. Run mvn clean install.
-You can see the execution.
+How to use the project:
+  1.Navigate to the folder you want to clone the repo.
+  2.Type command git clone https://github.com/Vipuldcm/TransLink.git .
+  3.cd Translink.
+  4. If not installed please install maven in your system. Run mvn clean install.
+  You can see the execution.
 
